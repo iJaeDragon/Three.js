@@ -2,8 +2,10 @@
 
 ## Three.js 가이드 확인 링크:
 
-### 공식 문서: Three.js Documentation
-### 튜토리얼 및 예제: Three.js Examples
+### 공식 문서: [Three.js Documentation](https://threejs.org/docs/).
+
+### 튜토리얼 및 예제: [Three.js Examples](https://threejs.org/examples/)
+
 
 ## 추가 리소스:
 
