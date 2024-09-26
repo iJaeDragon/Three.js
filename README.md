@@ -9,7 +9,7 @@
 
 ## 추가 리소스:
 
-### [Three.js Fundamentals](https://threejsfundamentals.org/)
+### [Three.js Fundamentals](https://threejs.org/manual/)
 #### 기본 개념을 깊이 있게 다루는 학습 자료로, 3D 그래픽의 기초부터 고급 주제까지 다룸.
 
 ### [Discover Three.js](https://discoverthreejs.com/)
