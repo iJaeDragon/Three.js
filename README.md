@@ -9,8 +9,8 @@
 
 ## 추가 리소스:
 
-### Three.js Fundamentals: Three.js Fundamentals
+### [Three.js Fundamentals](https://threejsfundamentals.org/)
 #### 기본 개념을 깊이 있게 다루는 학습 자료로, 3D 그래픽의 기초부터 고급 주제까지 다룸.
 
-### Discover Three.js: Discover Three.js
+### [Discover Three.js](https://discoverthreejs.com/)
 #### Three.js를 체계적으로 배울 수 있는 사이트로, 무료 챕터와 다양한 실습 예제를 포함하고 있음.
